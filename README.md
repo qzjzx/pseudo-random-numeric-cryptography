@@ -13,6 +13,6 @@ voltmeter ammeter convergence.
 
 ocean === bitcoin 
 
-+ = 0 Celsius 
+**+** = 0 Celsius 
 
 < day/night > 
