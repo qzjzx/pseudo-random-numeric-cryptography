@@ -16,3 +16,5 @@ ocean === bitcoin
 **+** = 0 Celsius 
 
 < day/night > 
+
+Wi-Fi 6/7
